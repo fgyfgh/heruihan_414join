@@ -1,5 +1,6 @@
 # heruihan_414join
-<table border="100">
+<table border="10"> 
+ <tableborder="234">
  <tr>
   <td width="75">
     <h1>赫芮晗</h1>
@@ -14,3 +15,6 @@
  </tr>
 </table>
 
+## 我的形象
+## 我的爱好
+## 我的期望
