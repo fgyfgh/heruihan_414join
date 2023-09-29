@@ -9,5 +9,8 @@
     <p><b>微信：ax1184237355</b></p>
   </td>
   <td width="25">
-    <img src="/6af38f17efa3353a83e0cacc108c328"width="100%">  
+    <img src="/6af38f17efa3353a83e0cacc108c328.jpg" width="100%">  
+  </td>
+ </tr>
+</table>
    
