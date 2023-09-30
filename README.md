@@ -1,6 +1,5 @@
 # heruihan_414join
 <table border="10"> 
- <tableborder="234">
  <tr>
   <td width="75">
     <h1>赫芮晗</h1>
@@ -17,4 +16,7 @@
 
 ## 我的爱好
 ### 绘画
+
+    <img src="/%E5%9B%BE%E7%89%871.jpg" width="30%"><img src="/%E5%9B%BE%E7%89%871.jpg" width="30%"> 
+
 ## 我的期望
