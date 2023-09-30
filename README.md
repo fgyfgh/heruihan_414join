@@ -17,8 +17,8 @@
 ## 我的爱好
 ### 绘画
  <p float="left">
-  <img src="%E5%9B%BE%E7%89%871.jpg" width="100" />
-  <img src="%E5%9B%BE%E7%89%871.jpg" width="100" /> 
+  <img src="%E5%9B%BE%E7%89%871.jpg" width="200" />
+  <img src="%E5%9B%BE%E7%89%872.jpg" width="240" /> 
   <img src="%E5%9B%BE%E7%89%871.jpg" width="100" />
 </p>
  
