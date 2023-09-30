@@ -16,7 +16,12 @@
 
 ## 我的爱好
 ### 绘画
-
-    <img src="/%E5%9B%BE%E7%89%871.jpg" width="30%"><img src="/%E5%9B%BE%E7%89%871.jpg" width="30%"> 
-
+ <p float="left">
+  <img src="%E5%9B%BE%E7%89%871.jpg" width="100" />
+  <img src="%E5%9B%BE%E7%89%871.jpg" width="100" /> 
+  <img src="%E5%9B%BE%E7%89%871.jpg" width="100" />
+</p>
+ 
 ## 我的期望
+
+
