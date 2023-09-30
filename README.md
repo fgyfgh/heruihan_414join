@@ -16,18 +16,18 @@
 
 ## 我的爱好
 ### 绘画
-**丙烯**
+* **丙烯**
  <p float="left">
   <img src="%E5%9B%BE%E7%89%871.jpg" width="200" />
   <img src="%E5%9B%BE%E7%89%872.jpg" width="240" /> 
   <img src="图片3.jpg" width="300" />
 </p>
 
-**Sketch Book**
+* **Sketch Book**
  <p float="left">
-  <img src="图片5.jpg" width="200" />
-  <img src="%E5%9B%BE%E7%89%872.jpg" width="240" /> 
-  <img src="图片3.jpg" width="300" />
+  <img src="图片5.jpg" width="180" />
+  <img src="图片6.jpg" width="240" /> 
+  <img src="图片4.jpg" width="250" />
 </p>
  
 ## 我的期望
